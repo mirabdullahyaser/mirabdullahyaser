@@ -64,6 +64,17 @@ I’m an AI Engineer passionate about **scaling intelligent systems** through cu
 ### **🌟 Fun Fact** 
 *Built a Proxy Policy Optimization (PPO) model for a quadruped robot’s balance and propulsion system at Pakistan Air Force R&D – because even robots need core strength!*  
 
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mirabdullahyaser&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirabdullahyaser&theme=dark&layout=compact)
+
+
+
 ---
 
 ## 🚀 Featured Projects
@@ -97,15 +108,6 @@ I’m an AI Engineer passionate about **scaling intelligent systems** through cu
 ## 🔭 Currently Learning & Building
 - **Exploring Multi-Modal Generative AI** for text and image to text translation. 
 - **Integrating LLMs in dynamic dashboards** for real-time KPI monitoring.**
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mirabdullahyaser&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirabdullahyaser&theme=dark&layout=compact)
-
 
 
 ---
