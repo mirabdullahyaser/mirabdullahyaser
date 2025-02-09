@@ -106,8 +106,6 @@ I’m an AI Engineer passionate about **scaling intelligent systems** through cu
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirabdullahyaser&theme=dark&layout=compact)
 
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=mirabdullahyaser/mirabdullahyaser)](https://github.com/mirabdullahyaser/mirabdullahyaser)
-
 
 
 ---
