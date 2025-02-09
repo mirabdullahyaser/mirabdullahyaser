@@ -9,7 +9,7 @@
 
 ---
 
-### **🚀 About Me**
+## **🚀 About Me**
 I’m an AI Engineer passionate about **scaling intelligent systems** through cutting-edge technologies like:  
 - **Large Language Models (LLMs)** - Fine-tuning, RAG, and deployment.  
 - **Generative AI** - Building tools for finance, engineering, and productivity.  
@@ -19,7 +19,7 @@ I’m an AI Engineer passionate about **scaling intelligent systems** through cu
 
 ---
 
-### **🛠️ Technical Arsenal**
+## **🛠️ Technical Arsenal**
 **AI/ML Frameworks & Tools**
 
 ![CrewAI](https://img.shields.io/badge/-CrewAI-FFD21F?logo=crewai)
@@ -61,7 +61,7 @@ I’m an AI Engineer passionate about **scaling intelligent systems** through cu
 
 ---
 
-### **🌟 Fun Fact** 
+## **🌟 Fun Fact** 
 *Built a Proxy Policy Optimization (PPO) model for a quadruped robot’s balance and propulsion system at Pakistan Air Force R&D – because even robots need core strength!*  
 
 
